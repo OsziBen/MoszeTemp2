@@ -1,7 +1,9 @@
 # Szöveges fájlok
 * text=auto
-*.cs text eol=lf
+*.cs text eol=crlf
+*.meta text eol=crlf
 *.txt text eol=crlf
+*.log text eol=crlf
 
 # Unity fájlok
 *.asset text eol=lf
