@@ -1,2 +1,5 @@
+# Szöveges fájlok
+*.cs text eol=lf
+
 # Unity fájlok
 *.asset text eol=lf
