@@ -1,1 +1,7 @@
+# Szöveges fájlok
 *.meta text eol=lf
+*.txt text eol=lf
+
+
+# Unity fájlok
+*.asset text eol=lf
